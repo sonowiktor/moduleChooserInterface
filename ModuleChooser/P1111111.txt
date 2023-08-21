@@ -1,0 +1,16 @@
+Name: Wiktor Kumor
+PNum: P1111111
+Email: P2602600@my365.dmu.ac.uk
+Date: 2001-11-01
+Course: Computer Science
+Selected Modules: 
+================================
+CTEC3110 : Secure Web Application Development
+CTEC3410 : Web Application Penetration Testing
+CTEC3451 : Development Project
+CTEC3902 : Rigorous Systems
+IMAT3104 : Database Management and Programming
+IMAT3406 : Fuzzy Logic and Knowledge Based Systems
+IMAT3423 : Systems Building: Methods
+IMAT3428 : Information Technology Services Practice
+IMAT3613 : Data Mining

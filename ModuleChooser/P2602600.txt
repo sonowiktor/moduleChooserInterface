@@ -1,0 +1,14 @@
+Name: Mark Wright
+PNum: P2602600
+Email: P2602600@my365.dmu.ac.uk
+Date: 2003-05-28
+Course: Computer Science
+Selected Modules: 
+================================
+CTEC3451 : Development Project
+CTEC3605 : Multi-service Networks 1
+CTEC3606 : Multi-service Networks 2
+IMAT3104 : Database Management and Programming
+IMAT3423 : Systems Building: Methods
+IMAT3613 : Data Mining
+IMAT3614 : Big Data and Business Models
